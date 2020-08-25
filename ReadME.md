@@ -1,3 +1,3 @@
-# Donalds
+# Donald
 
-This is my workshop on Donalds
+This is my workshop on Donald
